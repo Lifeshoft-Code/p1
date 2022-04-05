@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.welcome-card_container{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(440deg, #5300b8, #9106c4 40%,#c900b8);
+}
+.welcomer-card{
+    color: #fff;
+    font-family: "poppins";
+    font-size: calc(0.8em + 1vw);
+    a{
+        
+        color: #e7afe2;
+        
+    }
+}
